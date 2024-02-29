@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "music": "Music"
+  },
+  "categories": {
+    "colors": "Colors",
+    "numbers": "Numbers",
+    "animals": "Animals",
+    "fruits": "Fruits",
+    "vegetables": "Vegetables",
+    "family": "Family",
+    "weather": "Weather",
+    "sports": "Sports",
+    "clothes": "Clothes",
+    "transportation": "Transportation",
+    "jobs": "Jobs",
+    "food": "Food",
+    "instruments": "Instruments",
+    "nature": "Nature",
+    "bodyParts": "Body Parts",
+    "shapes": "Shapes",
+    "hobbies": "Hobbies",
+    "school": "School",
+    "emotions": "Emotions",
+    "travel": "Travel"
+  }
+}

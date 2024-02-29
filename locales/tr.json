@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "music": "Müzik"
+  },
+  "categories": {
+    "colors": "Renkler",
+    "numbers": "Sayılar",
+    "animals": "Hayvanlar",
+    "fruits": "Meyveler",
+    "vegetables": "Sebzeler",
+    "family": "Aile",
+    "weather": "Hava Durumu",
+    "sports": "Spor",
+    "clothes": "Giysi",
+    "transportation": "Ulaşım",
+    "jobs": "Meslekler",
+    "food": "Yiyecek",
+    "instruments": "Enstrümanlar",
+    "nature": "Doğa",
+    "bodyParts": "Vücut Parçaları",
+    "shapes": "Şekiller",
+    "hobbies": "Hobiler",
+    "school": "Okul",
+    "emotions": "Duygular",
+    "travel": "Seyahat"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "music": "Musik"
+  },
+  "categories": {
+    "colors": "Farben",
+    "numbers": "Zahlen",
+    "animals": "Tiere",
+    "fruits": "Früchte",
+    "vegetables": "Gemüse",
+    "family": "Familie",
+    "weather": "Wetter",
+    "sports": "Sport",
+    "clothes": "Kleidung",
+    "transportation": "Transport",
+    "jobs": "Berufe",
+    "food": "Lebensmittel",
+    "instruments": "Instrumente",
+    "nature": "Natur",
+    "bodyParts": "Körperteile",
+    "shapes": "Formen",
+    "hobbies": "Hobbys",
+    "school": "Schule",
+    "emotions": "Emotionen",
+    "travel": "Reisen"
+  }
+}
